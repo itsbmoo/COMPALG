@@ -1,2 +1,2 @@
 # COMPALG
-COMPression ALGorithms
+COMPALG, Compression Algorithms
